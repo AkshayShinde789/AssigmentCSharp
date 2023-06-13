@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DuplicateInArray", "Duplica
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SecondHeighest", "SecondHeighest\SecondHeighest.csproj", "{EEC3461B-22BE-48CD-BD3B-07B19DDE12FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumber", "PrimeNumber\PrimeNumber.csproj", "{9BE815BF-7ADE-4361-9132-DF15D7A80F29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeNumber", "PrimeNumber\PrimeNumber.csproj", "{9BE815BF-7ADE-4361-9132-DF15D7A80F29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo Project", "Demo Project\Demo Project.csproj", "{3EDE2024-F019-4CF0-841A-B52A0D5A5DDC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{9BE815BF-7ADE-4361-9132-DF15D7A80F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BE815BF-7ADE-4361-9132-DF15D7A80F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BE815BF-7ADE-4361-9132-DF15D7A80F29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EDE2024-F019-4CF0-841A-B52A0D5A5DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EDE2024-F019-4CF0-841A-B52A0D5A5DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EDE2024-F019-4CF0-841A-B52A0D5A5DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EDE2024-F019-4CF0-841A-B52A0D5A5DDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
