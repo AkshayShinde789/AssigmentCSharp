@@ -20,6 +20,7 @@ class program
             Console.WriteLine(num[i] + "" + sum);
         }
         Console.WriteLine($"Duplicate in Array : {duplicate}");
+        Console.WriteLine("Thank You");
 
         Console.ReadLine();
     }
